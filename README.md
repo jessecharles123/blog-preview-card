@@ -1,5 +1,7 @@
 # Frontend Mentor - Blog preview card solution
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/38a5912c-ecca-4653-8bfb-8acfbfaf0de8/deploy-status)](https://app.netlify.com/projects/blog-preview-cardpreview/deploys)
+
 This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
@@ -28,8 +30,8 @@ The challenge was to build a blog preview card that includes hover and focus sta
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github Repository](https://github.com/jessecharles123/blog-preview-card)
+- Live Site URL: [Netlify](https://blog-preview-cardpreview.netlify.app/)
 
 ## My process
 
